@@ -32,7 +32,7 @@ Skin cancer is one of the most common forms of cancer worldwide. Early and accur
 - 🧠 **Hybrid Architecture**: CNN backbone + Transformer encoder for enhanced feature extraction
 - 📊 **Multiple Approaches**: Traditional ML, Transfer Learning (VGG16), and Hybrid CNN-Transformer
 - 🎯 **PCA Dimensionality Reduction**: 256 → 36 features while retaining 95% variance
-- 📈 **Best Accuracy**: ~79% with Random Forest on CNN-extracted + PCA-reduced features
+- 📈 **Best Accuracy**: ~81% with Random Forest on CNN-extracted + PCA-reduced features
 
 ---
 
