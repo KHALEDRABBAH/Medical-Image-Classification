@@ -1,0 +1,55 @@
+# Large video files (exceed GitHub 100MB limit)
+*.mp4
+
+# Model files (too large for GitHub)
+*.h5
+*.pkl
+*.keras
+*.pt
+*.pth
+*.onnx
+
+# Dataset files
+*.csv
+*.zip
+*.tar.gz
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.tmp
+*.bak
+~$*.*
