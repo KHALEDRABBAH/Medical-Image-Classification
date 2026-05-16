@@ -205,10 +205,12 @@ Medical-Image-Classification/
 
 <div align="center">
 
-| Team Member |
-|-------------|
-| **Khaled Rabbah** |
-| **Habiba Samy** |
+| Team Member | LinkedIn |
+|-------------|----------|
+| **Khaled Rabbah** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-rabbah/) |
+| **Yousef Tamer** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youseftmoharam/) |
+| **Habiba Samy** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habiba-samy-555242344/) |
+| **Mohanad Momen** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanad-momen/) |
 
 </div>
 
